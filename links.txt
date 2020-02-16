@@ -1,0 +1,6 @@
+https://firebase.google.com/docs/web/setup
+https://github.com/firebase/quickstart-js
+https://firebase.google.com/docs/web/setup
+https://console.firebase.google.com/u/0/project/fir-72288/overview
+https://firebase.google.com/docs/hosting/?authuser=0
+https://firebase.google.com/terms?hl=en&authuser=0
